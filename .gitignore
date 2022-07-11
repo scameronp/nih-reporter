@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Project specific working directory
-work/*
+work/**
 .idea
-content/*
-temp/*
+content/**
+temp/**
