@@ -50,6 +50,7 @@ TOTAL_COST_SUB_PROJECT = 'TOTAL_COST_SUB_PROJECT'
 
 # new headers for enhanced-output.csv file (added for the project)
 
+APPLICATION_TYPE_NAME = 'APPLICATION_TYPE_NAME'
 NB_PI_IDS = 'NB_PI_IDS'
 NB_PI_NAMES = 'NB_PI_NAMES'
 CONTACT_PI_ID = 'CONTACT_PI_ID'
