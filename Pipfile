@@ -6,11 +6,7 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 pandas = "*"
-scikit-learn = "*"
-statsmodels = "*"
-seaborn = "*"
-numpy = "*"
-scipy = "*"
+
 
 [dev-packages]
 
